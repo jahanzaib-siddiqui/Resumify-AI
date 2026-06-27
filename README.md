@@ -68,12 +68,12 @@ Whether you're applying for jobs in the **USA, Canada, UK, Germany, Australia, U
 ```
 Resumify-AI/
 │
-├── client/
+├── frontend/
 │   ├── src/
 │   ├── public/
 │   └── package.json
 │
-├── server/
+├── backend/
 │   ├── controllers/
 │   ├── models/
 │   ├── routes/
